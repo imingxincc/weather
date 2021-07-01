@@ -1,0 +1,17 @@
+{
+    "name": "imingxin\/weather",
+    "description": "A weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "imingxin",
+            "email": "imingxin.cc@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Imingxin\\Weather\\": "src"
+        }
+    }
+}
